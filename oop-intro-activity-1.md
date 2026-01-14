@@ -11,16 +11,16 @@ GPU
 ## Properties
 
 - Name
-- Company
+- Manufacturer
 
 ---
 
 ## Object 1
 
 - Name: RTX 5060
-- Company: NVIDIA
+- Manufacturer: NVIDIA
 
 ## Object 2
 
 - Name: RX 9070XT
-- Company: AMD
+- Manufacturer: AMD
