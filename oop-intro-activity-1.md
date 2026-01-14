@@ -17,10 +17,10 @@ GPU
 
 ## Object 1
 
-- Name: RTX 5060
-- Manufacturer: NVIDIA
+- **Name:** RTX 5060
+- **Manufacturer:** NVIDIA
 
 ## Object 2
 
-- Name: RX 9070XT
-- Manufacturer: AMD
+- **Name:** RX 9070XT
+- **Manufacturer:** AMD
