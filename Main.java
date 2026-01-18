@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        // For the showcase of sir
         Laptop asus = new Laptop();
         asus.brand = "Asus";
         asus.storage = 512;
@@ -17,5 +18,14 @@ public class Main {
         mac.model = "Macbook Pro mid-2014";
         mac.condition = "Old";
         mac.price = 560000;
+
+        // The assignment that sir has given us
+        GPU nvidia = new GPU();
+        nvidia.name = "RTX 5060";
+        nvidia.manufacturer = "NVIDIA";
+
+        GPU amd = new GPU();
+        amd.name = "RX 9070XT";
+        amd.manufacturer = "AMD"
     }
 }
